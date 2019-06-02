@@ -1,6 +1,7 @@
 # Tarea Reservas de Aulas
 ## Profesor: Andrés Rubio del Río
-## Alumno:
+## Alumno:Expósito Lara Ezequiel.
+
 
 Desde el IES Al-Ándalus nos acaban de dar unos nuevos requisitos a aplicar sobre la última versión que le mostramos y que les gustó bastante. Lo que nos piden es lo siguiente:
 
